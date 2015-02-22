@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "args-js": "^0.10.5",
-    "coffeelint": "git://github.com/alubbe/coffeelint.git#a5efd54cd9ca7d1d7fc2ec0808a750c40c5d2b8f",
+    "coffeelint": "^1.9.1",
     "coffeelint-stylish": "^0.1.1",
     "gulp-util": "^3.0.0",
     "through2": "^0.6.1"
